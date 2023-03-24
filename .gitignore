@@ -73,5 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/StarterContent/*
-Content/Art/Video_Clips/*
+Content/Art/Video_Clips/MediaSources/*
 

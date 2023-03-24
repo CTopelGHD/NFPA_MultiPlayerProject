@@ -72,6 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/StarterContent/Architecture/Floor_400x400.uasset
-Content/StarterContent/Audio/Collapse01.uasset
-Content/StarterContent/Architecture/Floor_400x400.uasset
+Content/StarterContent/*
+Content/Art/Video_Clips/*
+

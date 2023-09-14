@@ -78,3 +78,6 @@ DerivedDataCache/*
 Content/StarterContent/*
 Content/Art/Video_Clips/MediaSources/*
 
+# Removes the Raw Movies Directory
+Content/Movies/*
+

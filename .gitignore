@@ -81,3 +81,5 @@ Content/Art/Video_Clips/MediaSources/*
 # Removes the Raw Movies Directory
 Content/Movies/*
 
+# Ignoring the UI Folder
+Content/UI/MainMenu/*

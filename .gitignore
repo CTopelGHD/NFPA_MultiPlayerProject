@@ -82,4 +82,4 @@ Content/Art/Video_Clips/MediaSources/*
 Content/Movies/*
 
 # Ignoring the UI Folder
-Content/UI/*
+Content/UI/MainMenu/*
